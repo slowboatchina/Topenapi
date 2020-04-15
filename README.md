@@ -1,2 +1,2 @@
 # Topenapi
-temp API specifications
+Temporary API specifications
